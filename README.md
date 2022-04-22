@@ -22,4 +22,4 @@
 
 ## Credits
 
-- [](https://fontsrepo.com/determination-free-font/) Determination Sans Font
+- [](https://ariszulwafa.my.id/fakta-unik/) author web fakta unik
