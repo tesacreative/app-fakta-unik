@@ -14,11 +14,11 @@
 
   > Main
 
-  [![20220221-205034.png](https://i.postimg.cc/5tBxk2NT/20220221-205034.png)](Screenshot_20220422-150803281.jpg)
+  [![20220221-205034.png](Screenshot_20220422-150803281.jpg)](Screenshot_20220422-150803281.jpg)
 
   > About
 
-  [![20220221-205008.png](https://i.postimg.cc/13JxgVX9/20220221-205008.png)](Screenshot_20220422-150825330.jpg)
+  [![20220221-205008.png](Screenshot_20220422-150825330.jpg)](Screenshot_20220422-150825330.jpg)
 
 ## Credits
 
