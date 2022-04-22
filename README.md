@@ -1,4 +1,4 @@
-<h1 align="center">JS Console</h1>
+<h1 align="center">Aplikasi Fakta Unik</h1>
 
 ## Tentang Aplikasi
 
