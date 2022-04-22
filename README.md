@@ -14,12 +14,12 @@
 
   > Main
 
-  [![20220221-205034.png](https://i.postimg.cc/5tBxk2NT/20220221-205034.png)](https://postimg.cc/JyhVsmX5))
+  [![20220221-205034.png](https://i.postimg.cc/5tBxk2NT/20220221-205034.png)](Screenshot_20220422-150803281.jpg)
 
   > About
 
-  [![20220221-205008.png](https://i.postimg.cc/13JxgVX9/20220221-205008.png)](https://postimg.cc/ZWBs2R6g)
+  [![20220221-205008.png](https://i.postimg.cc/13JxgVX9/20220221-205008.png)](Screenshot_20220422-150825330.jpg)
 
 ## Credits
 
-- [determination](https://fontsrepo.com/determination-free-font/) Determination Sans Font
+- [](https://fontsrepo.com/determination-free-font/) Determination Sans Font
