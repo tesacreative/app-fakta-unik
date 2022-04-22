@@ -3,10 +3,10 @@
 ## Tentang Aplikasi
 
 > **Deskripsi**
-> - Ini adalah aplikasi konsol javascript yang dapat anda gunakan di platform Android dengan memasukan perintah dan uji apakah perintah javascript anda berjalan dengan baik.
+> - Ini adalah aplikasi hiburan dan edukasi berbasis aplikasi mobile, yang bertema random fakta unik.
 
 > **Catatan!**
-> - Aplikasi ini menjalankan javascript pada shell dan bukan pada browser sehingga objek yang di sediakan oleh browser tidak tersedia.
+> - Sebelumnya sudah rilis aplikasi berbasis CLI nya, jika ingin mencobanya silahkan cek di repositori github kami.
 
 ## :camera_flash: Screenshots
 
