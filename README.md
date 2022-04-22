@@ -22,4 +22,7 @@
 
 ## Credits
 
-- [](https://ariszulwafa.my.id/fakta-unik/) author web fakta unik
+- [ariszulwafa](https://ariszulwafa.my.id/fakta-unik/) author web fakta unik
+
+## Download
+- [click here](https://github.com/tesacreative/app-fakta-unik/releases)
